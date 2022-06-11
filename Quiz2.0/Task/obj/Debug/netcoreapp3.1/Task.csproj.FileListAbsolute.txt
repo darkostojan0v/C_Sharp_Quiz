@@ -1,0 +1,14 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz2.0\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
