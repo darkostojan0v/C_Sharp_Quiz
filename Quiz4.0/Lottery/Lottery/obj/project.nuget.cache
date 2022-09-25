@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4og2/0F2Swt08Y2MxQQ65ESCROiip/RapJ1sObwNA2gkY3AWtPQmow1iQLaxP8/ACRCzpTr3Zh5rjWskbZ2oEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz4.0\\Lottery\\Lottery\\Lottery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

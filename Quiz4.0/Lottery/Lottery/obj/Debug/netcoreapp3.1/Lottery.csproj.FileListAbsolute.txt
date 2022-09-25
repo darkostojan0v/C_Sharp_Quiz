@@ -1,0 +1,14 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.exe
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz4.0\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.genruntimeconfig.cache
