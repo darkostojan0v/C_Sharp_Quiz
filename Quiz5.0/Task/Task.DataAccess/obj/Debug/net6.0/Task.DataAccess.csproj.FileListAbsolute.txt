@@ -1,0 +1,17 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\bin\Debug\net6.0\Task.DataAccess.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\bin\Debug\net6.0\Task.DataAccess.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\bin\Debug\net6.0\Task.DataAccess.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\bin\Debug\net6.0\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\bin\Debug\net6.0\Task.Domain.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\refint\Task.DataAccess.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\ref\Task.DataAccess.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\bin\Debug\net6.0\Task.DataAccess.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.DataAccess\obj\Debug\net6.0\Task.DataAccess.genruntimeconfig.cache

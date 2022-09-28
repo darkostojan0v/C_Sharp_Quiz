@@ -1,0 +1,17 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Mappers.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Mappers.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Mappers.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Dtos.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Dtos.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\bin\Debug\net6.0\Task.Domain.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\refint\Task.Mappers.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\Task.Mappers.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Mappers\obj\Debug\net6.0\ref\Task.Mappers.dll

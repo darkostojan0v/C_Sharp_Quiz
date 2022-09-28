@@ -1,0 +1,14 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\refint\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\ref\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.genruntimeconfig.cache

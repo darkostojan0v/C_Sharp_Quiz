@@ -1,0 +1,516 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Helpers\\Task.Helpers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj",
+        "projectName": "Task.DataAccess",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj",
+        "projectName": "Task.Domain",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj",
+        "projectName": "Task.Dtos",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Domain\\Task.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Helpers\\Task.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Helpers\\Task.Helpers.csproj",
+        "projectName": "Task.Helpers",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Helpers\\Task.Helpers.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj"
+              },
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Services\\Task.Services.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Services\\Task.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Mappers\\Task.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Mappers\\Task.Mappers.csproj",
+        "projectName": "Task.Mappers",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Mappers\\Task.Mappers.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Services\\Task.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Services\\Task.Services.csproj",
+        "projectName": "Task.Services",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Services\\Task.Services.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.DataAccess\\Task.DataAccess.csproj"
+              },
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Dtos\\Task.Dtos.csproj"
+              },
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Mappers\\Task.Mappers.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Mappers\\Task.Mappers.csproj"
+              },
+              "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Shared\\Task.Shared.csproj": {
+                "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Shared\\Task.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Shared\\Task.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Shared\\Task.Shared.csproj",
+        "projectName": "Task.Shared",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Shared\\Task.Shared.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Quiz5.0\\Task\\Task.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

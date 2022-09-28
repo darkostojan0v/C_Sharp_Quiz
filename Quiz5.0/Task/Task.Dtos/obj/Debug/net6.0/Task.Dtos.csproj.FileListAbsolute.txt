@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\bin\Debug\net6.0\Task.Dtos.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\bin\Debug\net6.0\Task.Dtos.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\bin\Debug\net6.0\Task.Dtos.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\bin\Debug\net6.0\Task.Domain.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\bin\Debug\net6.0\Task.Domain.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\refint\Task.Dtos.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\Task.Dtos.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Quiz5.0\Task\Task.Dtos\obj\Debug\net6.0\ref\Task.Dtos.dll

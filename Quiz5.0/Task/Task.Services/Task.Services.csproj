@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Task.DataAccess\Task.DataAccess.csproj" />
+    <ProjectReference Include="..\Task.Dtos\Task.Dtos.csproj" />
+    <ProjectReference Include="..\Task.Mappers\Task.Mappers.csproj" />
+    <ProjectReference Include="..\Task.Shared\Task.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
